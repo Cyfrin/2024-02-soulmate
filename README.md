@@ -1,3 +1,25 @@
+<p align="center">
+<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/jlaqqfofafa01emq3nh8?_a=BATAUVAA0" width="400" alt="soulmate">
+<br/>
+
+# Contest Details
+
+Our FIRST EVER Community Submitted First Flight Contest! A huge thank you to n0kto for this incredible contribution to the community. Check him out at:
+
+### Prize Pool
+
+- High - 100xp
+- Medium - 20xp
+- Low - 2xp
+
+- Starts: February 08, 2024 Noon UTC
+- Ends: February 15, 2024 Noon UTC
+
+### Stats
+
+- nSLOC: 233
+- Complexity Score: 123
+
 # Soulmate
 
 # Disclaimer
