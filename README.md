@@ -4,7 +4,7 @@
 
 # Contest Details
 
-Our FIRST EVER Community Submitted First Flight Contest! A huge thank you to n0kto for this incredible contribution to the community. Check him out at:
+Our **FIRST EVER** Community Submitted First Flight Contest! A huge thank you to **n0kto** for this incredible contribution to the community.
 
 ### Prize Pool
 
