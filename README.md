@@ -1,7 +1,5 @@
 # First Flight #9: Soulmate
 
-[//]: # (contest-details-open)
-
 # Contest Details
 
 Our **FIRST EVER** Community Submitted First Flight Contest! A huge thank you to **n0kto** for this incredible contribution to the community.
@@ -20,7 +18,7 @@ Our **FIRST EVER** Community Submitted First Flight Contest! A huge thank you to
 - nSLOC: 233
 - Complexity Score: 123
 
-# Soulmate
+[//]: # (contest-details-open)
 
 # Disclaimer
 
