@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/jlaqqfofafa01emq3nh8?_a=BATAUVAA0" width="400" alt="soulmate">
-<br/>
+# First Flight #9: Soulmate
+
+[//]: # (contest-details-open)
 
 # Contest Details
 
@@ -93,6 +93,10 @@ The vault contract is responsible for holding the love tokens, and approving the
 - A vault to hold funds for the airdrop contract
 - A vault to hold funds for the staking contract
 
+[//]: # (contest-details-close)
+
+[//]: # (getting-started-open)
+
 # Getting Started
 
 ## Requirements
@@ -122,6 +126,10 @@ and for coverage based testing:
 forge coverage --report debug
 ```
 
+[//]: # (getting-started-close)
+
+[//]: # (scope-open)
+
 # Audit Scope Details
 
 - Commit Hash:
@@ -138,10 +146,12 @@ Hash:
 - Chain(s) to deploy contract to:
   - Ethereum
 
-# Roles
+[//]: # (scope-close)
 
-None
+[//]: # (known-issues-open)
 
 # Known Issues
 
 - Eventually, the counter used to give ids will reach the `type(uint256).max` and no more will be able to be minted. This is known and can be ignored.
+
+[//]: # (known-issues-close)
